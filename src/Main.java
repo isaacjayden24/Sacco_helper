@@ -37,7 +37,7 @@ class Main {
 
      // Call the repayment method of the RepaymentInterest instance
      obj7.repayment();
-     //the code should run always!
+     //the code should run always
  }
 }
 
